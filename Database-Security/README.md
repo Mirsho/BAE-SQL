@@ -1,6 +1,6 @@
 # BAE - Database Security SQL Server Queries
 
-# Author: Adrián Perera Hernández.
+### Author: Adrián Perera Hernández.
 
 ||-----------------------------------------------------------------------||
 
