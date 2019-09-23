@@ -9,7 +9,7 @@ SQL queries and statements summary, including:
 - Transactions
 - Database Programming
 
-# Author: Adrián Perera Hernández.
+### Author: Adrián Perera Hernández.
 
 ||-----------------------------------------------------------------------||
 
