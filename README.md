@@ -1,13 +1,13 @@
 # BAE - SQL Server Queries
 
 SQL queries and statements summary, including:
-    - Multiple Queries and Join
-    - Subqueries and Complex Queries
-    - Advanced Maintenance
-    - Database Management
-    - Database Security
-    - Transactions
-    - Database Programming
+- Multiple Queries and Join
+- Subqueries and Complex Queries
+- Advanced Maintenance
+- Database Management
+- Database Security
+- Transactions
+- Database Programming
 
 # Author: Adrián Perera Hernández.
 
